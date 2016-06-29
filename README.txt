@@ -1,4 +1,7 @@
 First version of the readme...
 
-Kai added this to his branch
+Masa created this on his branch
 
+Then Masa added this to his branch
+
+Kai added this to his branch
